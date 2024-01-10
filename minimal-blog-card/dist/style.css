@@ -41,7 +41,8 @@ body{
 }
 
 .image{
-  max-width: 336px;
+  width: 336px;
+  height: 152px;
   border-color:none;
   border-radius: 15px;
 }
@@ -49,7 +50,7 @@ body{
 .tag{
   align-self: flex-start;
   
-  font-size: 10px;
+  font-size: 0.625rem;
   font-weight: 600;
   color: #883AE1;
   
@@ -67,19 +68,19 @@ body{
 
 .title{
   
-  font-size: 18px;
+  font-size:  1.125rem;
   font-weight: 700;
   color: #20293A;
 }
 
 .body{
-  font-size: 14px;
+  font-size: 0.875rem;
   font-weight: 400;
   color: #6C727F;
 }
 
 .small-text{
-  font-size: 12px;
+  font-size: 0.75rem;
   font-weight: 400;
   color: #6C727F;
 }

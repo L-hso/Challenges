@@ -21,7 +21,7 @@ body{
   
   position: absolute;
   left: 50%;
-  top: 50%;
+  top: 164px;
   transform: translate(-50%,-50%);
 }
 
